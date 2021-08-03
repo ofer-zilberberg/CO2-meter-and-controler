@@ -1,5 +1,5 @@
 
-# CO2 monitor
+# CO2 monitor & control
 
 This project is based on the amassing work of Stephan Schulz that can be found on:
 https://github.com/stephanschulz/co2-monitor
